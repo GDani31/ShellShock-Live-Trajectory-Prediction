@@ -5,7 +5,7 @@ The script is made for a Monitor with the resulotion 1080x1920 so you need to ch
 You also need to press alt+Enter in the game to change the game from fullscreen to borderless windowed.
 You will not see a difference since it is also fullscreen but with the difference it is in windowed mode which lets the script to draw on top of the game.
 
-To use this script, place your mosue above your tank and then press 'g' to start the trajectory plotter.
+To use this script, place your mouse above your tank and then press 'g' to start the trajectory plotter.
 Pressing 'f' will reset the plotter to power=100 and angle=90.
 
 You need to start by setting your tank 100,90 and then press 'g' while mouse is hovering above your tank.

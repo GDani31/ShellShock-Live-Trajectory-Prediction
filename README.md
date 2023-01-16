@@ -1,7 +1,8 @@
 # ShellShock-Live-Trajectory-Prediction
 This is a simple Pythonscript which is basically a cheat to the Game ShellShock Live.
+It will draw an Overlay ontop of the Game with the prediction how your trajectory of your next shoot will look with your currently set power and angle.
 
-The script is made for a Monitor with the resulotion 1080x1920 so you need to change this if you play with a different resulotion.
+The script is made for a Monitor with the resolution 1080x1920 so you need to change this if you play with a different resulotion.
 You also need to press alt+Enter in the game to change the game from fullscreen to borderless windowed.
 You will not see a difference since it is also fullscreen but with the difference it is in windowed mode which lets the script to draw on top of the game.
 
